@@ -22,10 +22,10 @@ export default {
     const route = useRoute();
     
     giscusTalk({
-        repo: 'swiftcodehub/theswiftguy',
-        repoId: 'R_kgDOMtGVzg',
+        repo: 'tsra0ne/swiftrivals',
+        repoId: 'R_kgDOOmKesg',
         category: 'General',
-        categoryId: 'DIC_kwDOMtGVzs4CiNtC',
+        categoryId: 'DIC_kwDOOmKess4Cp4kA',
         mapping: 'pathname',
         inputPosition: 'top',
         lang: 'en',
