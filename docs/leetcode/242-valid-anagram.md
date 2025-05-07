@@ -11,7 +11,7 @@ head:
       content: 242. Valid Anagram
   - - meta
     - property: og:url
-      content: https://swiftrivals.in/leetcode/242-valid-anagram
+      content: https://swiftrivals.com/leetcode/242-valid-anagram
 ---
 
 # 242. Valid Anagram

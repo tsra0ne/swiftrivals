@@ -11,7 +11,7 @@ head:
       content: 347. Top K Frequent Elements
   - - meta
     - property: og:url
-      content: https://swiftrivals.in/leetcode/347-top-k-frequent-elements
+      content: https://swiftrivals.com/leetcode/347-top-k-frequent-elements
 ---
 
 # 347. Top K Frequent Elements

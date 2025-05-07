@@ -11,7 +11,7 @@ head:
       content: 1. Two Sum
   - - meta
     - property: og:url
-      content: https://swiftrivals.in/leetcode/1-two-sum
+      content: https://swiftrivals.com/leetcode/1-two-sum
 ---
 
 # 1. Two Sum

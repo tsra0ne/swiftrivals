@@ -11,7 +11,7 @@ head:
       content: 217. Contains Duplicate
   - - meta
     - property: og:url
-      content: https://swiftrivals.in/leetcode/217-contains-duplicate
+      content: https://swiftrivals.com/leetcode/217-contains-duplicate
 ---
 
 # 217. Contains Duplicate

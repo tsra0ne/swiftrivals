@@ -11,7 +11,7 @@ head:
       content: 167. Two Sum II - Input Array Is Sorted
   - - meta
     - property: og:url
-      content: https://swiftrivals.in/leetcode/167-two-sum-II-input-array-is-sorted
+      content: https://swiftrivals.com/leetcode/167-two-sum-II-input-array-is-sorted
 ---
 
 # 167. Two Sum II - Input Array Is Sorted

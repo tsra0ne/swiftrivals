@@ -11,7 +11,7 @@ head:
       content: 125. Valid Palindrome
   - - meta
     - property: og:url
-      content: https://swiftrivals.in/leetcode/125-valid-palindrome
+      content: https://swiftrivals.com/leetcode/125-valid-palindrome
 ---
 
 # 125. Valid Palindrome
