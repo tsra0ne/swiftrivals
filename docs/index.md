@@ -1,10 +1,10 @@
 ---
-title: The Swift Guy
+title: Swift Rivals
 titleTemplate: Learn SwiftUI and UIKit
 layout: home
 
 hero:
-  name: The Swift Guy
+  name: Swift Rivals
   text: Learn SwiftUI and UIKit.
   tagline: Develop Applications without any difficulty.
   image:
