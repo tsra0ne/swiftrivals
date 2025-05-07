@@ -11,7 +11,7 @@ head:
       content: SwiftUI Resources
   - - meta
     - property: og:url
-      content: https://theswiftguy.in/swiftui/swiftui-resources
+      content: https://swiftrivals.in/swiftui/swiftui-resources
 ---
 
 # SwiftUI Resources

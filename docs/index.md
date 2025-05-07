@@ -19,7 +19,7 @@ hero:
       link: /swiftui/swiftui-resources
     - theme: alt
       text: GitHub
-      link: https://github.com/swiftcodehub/theswiftguy
+      link: https://github.com/tsra0ne/swiftrivals
     - theme: alt
       text: Leetcode
       link: /leetcode
