@@ -1,4 +1,4 @@
-# The Swift Guy
+# Swift Rivals
 
 <img src="./docs/public/logo.svg" width="300"/>
 
