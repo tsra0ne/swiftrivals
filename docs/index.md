@@ -9,7 +9,7 @@ hero:
   tagline: Develop Applications without any difficulty.
   image:
     src: /logo.svg
-    alt: The Swift Guy Logo
+    alt: Swift Rivals Logo
   actions:
     - theme: brand
       text: Blog
