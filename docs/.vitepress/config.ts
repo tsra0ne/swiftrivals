@@ -83,13 +83,5 @@ export default defineConfig({
     search: {
       provider: "local",
     }
-  },
-
-  vite: {
-    server: {
-      fs: {
-        allow: ['../leetcode/solutions']
-      }
-    }
   }
 })
