@@ -5,11 +5,13 @@ import { data as posts } from './leetcode.data'
 <template>
   <ul class="blog-list">
     <li class="blog-entry" v-for="post of posts">
-      <article>
-        <h2 class="title">
+      <ul>
+        <li>
+          <p>
             <a :href="post.url">{{ post.title }}</a>
-        </h2>
-      </article>
+          </p>
+        </li>
+      </ul>
     </li>
   </ul>
 </template>
@@ -18,12 +20,8 @@ import { data as posts } from './leetcode.data'
 .blog-list {
   list-style-type: none;
   padding: 0;
-  border-top: 1px solid var(--vp-c-divider);
 }
 .blog-entry {
-  border-bottom: 1px solid var(--vp-c-divider);
-  border-left: 1px solid var(--vp-c-divider);
-  border-right: 1px solid var(--vp-c-divider);
   padding-left: 10px;
   padding-right: 10px;
 }
