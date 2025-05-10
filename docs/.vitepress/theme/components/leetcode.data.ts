@@ -8,7 +8,7 @@ interface Post {
 declare const data: Post[]
 export { data }
 
-export default createContentLoader('leetcode/*.md', {
+export default createContentLoader('leetcode/pages/*.md', {
   transform(raw): Post[] {
     return raw
       .map(({ url, frontmatter }) => ({
