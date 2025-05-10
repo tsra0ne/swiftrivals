@@ -48,6 +48,7 @@ export default defineConfig({
             { text: '167. Two Sum II - Input Array Is Sorted', link: '/leetcode/167-two-sum-II-input-array-is-sorted' },
             { text: '217. Contains Duplicate', link: '/leetcode/217-contains-duplicate'},
             { text: '242. Valid Anagram', link: '/leetcode/242-valid-anagram' },
+            { text: '283. Move Zeroes', link: '/leetcode/283-move-zeroes' },
             { text: '347. Top K Frequent Elements', link: '/leetcode/347-top-k-frequent-elements' }
           ]
         }
