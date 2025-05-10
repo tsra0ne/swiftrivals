@@ -24,4 +24,4 @@ head:
 **Complexity:** O(n)
 :::
 
-<<< @/leetcode/problems/ArraysAndHashing/347-top-k-frequent-elements.swift
+<<< @/leetcode/problems/347-top-k-frequent-elements.swift

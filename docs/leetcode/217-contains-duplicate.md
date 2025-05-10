@@ -24,4 +24,4 @@ head:
 **Complexity:** O(n)
 :::
 
-<<< @/leetcode/problems/ArraysAndHashing/217-contains-duplicate.swift
+<<< @/leetcode/problems/217-contains-duplicate.swift

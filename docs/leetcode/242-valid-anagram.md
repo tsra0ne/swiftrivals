@@ -24,4 +24,4 @@ head:
 **Complexity:** O(n)
 :::
 
-<<< @/leetcode/problems/ArraysAndHashing/242-valid-anagram.swift
+<<< @/leetcode/problems/242-valid-anagram.swift

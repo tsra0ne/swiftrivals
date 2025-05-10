@@ -24,4 +24,4 @@ head:
 **Complexity:** O(n)
 :::
 
-<<< @/leetcode/problems/TwoPointers/125-valid-palindrome.swift
+<<< @/leetcode/problems/125-valid-palindrome.swift

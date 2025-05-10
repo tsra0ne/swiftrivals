@@ -24,4 +24,4 @@ head:
 **Complexity:** O(n)
 :::
 
-<<< @/leetcode/problems/TwoPointers/283-move-zeroes.swift
+<<< @/leetcode/problems/283-move-zeroes.swift

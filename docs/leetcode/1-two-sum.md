@@ -24,4 +24,4 @@ head:
 **Complexity:** O(n)
 :::
 
-<<< @/leetcode/problems/ArraysAndHashing/1-two-sum.swift
+<<< @/leetcode/problems/1-two-sum.swift
