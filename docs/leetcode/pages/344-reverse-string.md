@@ -24,4 +24,4 @@ head:
 **Complexity:** O(n)
 :::
 
-<<< @/leetcode/@solutions/344-reverse-string.swift
+<<< @/leetcode/solutions/344-reverse-string.swift

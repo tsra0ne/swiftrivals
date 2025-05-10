@@ -24,4 +24,4 @@ head:
 **Complexity:** O(n)
 :::
 
-<<< @/leetcode/@solutions/283-move-zeroes.swift
+<<< @/leetcode/solutions/283-move-zeroes.swift
