@@ -24,4 +24,4 @@ head:
 **Complexity:** O(n)
 :::
 
-<<< @/leetcode/solutions/128-longest-consecutive-sequence.swift
+<<< @/leetcode/@solutions/128-longest-consecutive-sequence.swift

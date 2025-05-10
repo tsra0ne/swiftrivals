@@ -83,5 +83,13 @@ export default defineConfig({
     search: {
       provider: "local",
     }
+  },
+
+    vite: {
+    resolve: {
+      alias: {
+        '@submodule': '../leetcode/solutions'
+      }
+    }
   }
 })
