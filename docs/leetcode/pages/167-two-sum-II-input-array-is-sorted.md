@@ -24,4 +24,4 @@ head:
 **Complexity:** O(n)
 :::
 
-<<< @/leetcode/problems/167-two-sum-II-input-array-is-sorted.swift
+<<< @/leetcode/solutions/167-two-sum-II-input-array-is-sorted.swift

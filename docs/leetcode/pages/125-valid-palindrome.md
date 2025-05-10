@@ -24,4 +24,4 @@ head:
 **Complexity:** O(n)
 :::
 
-<<< @/leetcode/problems/125-valid-palindrome.swift
+<<< @/leetcode/solutions/125-valid-palindrome.swift

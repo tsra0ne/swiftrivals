@@ -41,16 +41,16 @@ export default defineConfig({
         {
           text: 'Leetcode',
           items: [
-            { text: '1. Two Sum', link: '/leetcode/1-two-sum' },
-            { text: '15. 3Sum', link: '/leetcode/15-3Sum' },
-            { text: '125-valid-palindrome', link: '/leetcode/125-valid-palindrome'},
-            { text: '128. Longest Consecutive Sequence', link: '/leetcode/128-longest-consecutive-sequence' },
-            { text: '167. Two Sum II - Input Array Is Sorted', link: '/leetcode/167-two-sum-II-input-array-is-sorted' },
-            { text: '217. Contains Duplicate', link: '/leetcode/217-contains-duplicate'},
-            { text: '242. Valid Anagram', link: '/leetcode/242-valid-anagram' },
-            { text: '283. Move Zeroes', link: '/leetcode/283-move-zeroes' },
-            { text: '344. Reverse String', link: '/leetcode/344-reverse-string' },
-            { text: '347. Top K Frequent Elements', link: '/leetcode/347-top-k-frequent-elements' }
+            { text: '1. Two Sum', link: '/leetcode/pages/1-two-sum' },
+            { text: '15. 3Sum', link: '/leetcode/pages/15-3Sum' },
+            { text: '125-valid-palindrome', link: '/leetcode/pages/125-valid-palindrome'},
+            { text: '128. Longest Consecutive Sequence', link: '/leetcode/pages/128-longest-consecutive-sequence' },
+            { text: '167. Two Sum II - Input Array Is Sorted', link: '/leetcode/pages/167-two-sum-II-input-array-is-sorted' },
+            { text: '217. Contains Duplicate', link: '/leetcode/pages/217-contains-duplicate'},
+            { text: '242. Valid Anagram', link: '/leetcode/pages/242-valid-anagram' },
+            { text: '283. Move Zeroes', link: '/leetcode/pages/283-move-zeroes' },
+            { text: '344. Reverse String', link: '/leetcode/pages/344-reverse-string' },
+            { text: '347. Top K Frequent Elements', link: '/leetcode/pages/347-top-k-frequent-elements' }
           ]
         }
       ],

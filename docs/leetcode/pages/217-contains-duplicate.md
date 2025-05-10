@@ -24,4 +24,4 @@ head:
 **Complexity:** O(n)
 :::
 
-<<< @/leetcode/problems/217-contains-duplicate.swift
+<<< @/leetcode/solutions/217-contains-duplicate.swift
